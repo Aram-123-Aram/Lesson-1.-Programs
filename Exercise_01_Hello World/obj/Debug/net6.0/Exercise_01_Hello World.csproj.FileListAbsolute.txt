@@ -1,0 +1,15 @@
+C:\Users\ARAM\Desktop\Разработчик\Лекции\Lesson 1. Programs\Exercise_01_Hello World\bin\Debug\net6.0\Exercise_01_Hello World.exe
+C:\Users\ARAM\Desktop\Разработчик\Лекции\Lesson 1. Programs\Exercise_01_Hello World\bin\Debug\net6.0\Exercise_01_Hello World.deps.json
+C:\Users\ARAM\Desktop\Разработчик\Лекции\Lesson 1. Programs\Exercise_01_Hello World\bin\Debug\net6.0\Exercise_01_Hello World.runtimeconfig.json
+C:\Users\ARAM\Desktop\Разработчик\Лекции\Lesson 1. Programs\Exercise_01_Hello World\bin\Debug\net6.0\Exercise_01_Hello World.dll
+C:\Users\ARAM\Desktop\Разработчик\Лекции\Lesson 1. Programs\Exercise_01_Hello World\bin\Debug\net6.0\Exercise_01_Hello World.pdb
+C:\Users\ARAM\Desktop\Разработчик\Лекции\Lesson 1. Programs\Exercise_01_Hello World\obj\Debug\net6.0\Exercise_01_Hello World.csproj.AssemblyReference.cache
+C:\Users\ARAM\Desktop\Разработчик\Лекции\Lesson 1. Programs\Exercise_01_Hello World\obj\Debug\net6.0\Exercise_01_Hello World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARAM\Desktop\Разработчик\Лекции\Lesson 1. Programs\Exercise_01_Hello World\obj\Debug\net6.0\Exercise_01_Hello World.AssemblyInfoInputs.cache
+C:\Users\ARAM\Desktop\Разработчик\Лекции\Lesson 1. Programs\Exercise_01_Hello World\obj\Debug\net6.0\Exercise_01_Hello World.AssemblyInfo.cs
+C:\Users\ARAM\Desktop\Разработчик\Лекции\Lesson 1. Programs\Exercise_01_Hello World\obj\Debug\net6.0\Exercise_01_Hello World.csproj.CoreCompileInputs.cache
+C:\Users\ARAM\Desktop\Разработчик\Лекции\Lesson 1. Programs\Exercise_01_Hello World\obj\Debug\net6.0\Exercise_01_Hello World.dll
+C:\Users\ARAM\Desktop\Разработчик\Лекции\Lesson 1. Programs\Exercise_01_Hello World\obj\Debug\net6.0\refint\Exercise_01_Hello World.dll
+C:\Users\ARAM\Desktop\Разработчик\Лекции\Lesson 1. Programs\Exercise_01_Hello World\obj\Debug\net6.0\Exercise_01_Hello World.pdb
+C:\Users\ARAM\Desktop\Разработчик\Лекции\Lesson 1. Programs\Exercise_01_Hello World\obj\Debug\net6.0\Exercise_01_Hello World.genruntimeconfig.cache
+C:\Users\ARAM\Desktop\Разработчик\Лекции\Lesson 1. Programs\Exercise_01_Hello World\obj\Debug\net6.0\ref\Exercise_01_Hello World.dll
